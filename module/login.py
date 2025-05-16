@@ -34,10 +34,10 @@ def setup_browser(download_dir):
         chrome_options = Options()
 
         # # ✅ HEADLESS + download enabled
-        # chrome_options.add_argument("--headless=new")  # or try --headless if this fails
-        # chrome_options.add_argument("--no-sandbox")
-        # chrome_options.add_argument("--disable-dev-shm-usage")
-        # chrome_options.add_argument("--disable-gpu")
+        chrome_options.add_argument("--headless=new")  # or try --headless if this fails
+        chrome_options.add_argument("--no-sandbox")
+        chrome_options.add_argument("--disable-dev-shm-usage")
+        chrome_options.add_argument("--disable-gpu")
 
         # ✅ Preferences to enable downloads
         prefs = {
