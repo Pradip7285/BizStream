@@ -4,7 +4,7 @@ __pycache__/
 app.py
 newbot.py
 *.pyc
-.xlsxS
+.xlsx
 
 # Ignore environment files
 .env
