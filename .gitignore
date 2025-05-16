@@ -5,7 +5,8 @@ app.py
 newbot.py
 *.pyc
 .xlsx
-
+module/Depot.xlsx
+module/distict&warehouse.xlsx
 # Ignore environment files
 .env
 
