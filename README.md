@@ -1,6 +1,6 @@
 # Bezstreem 🤖
 
-Bezstreem is a Telegram automation bot designed to simplify and streamline daily operations on the  BEVCO portal. It helps generate invoices, stock reports, and inventory downloads efficiently with a simple chat interface. Ideal for authorized users who manage retail or distribution tasks.
+Bezstreem is a Telegram automation bot designed to simplify and streamline daily operations on the  BEV** portal. It helps generate invoices, stock reports, and inventory downloads efficiently with a simple chat interface. Ideal for authorized users who manage retail or distribution tasks.
 
 ## Features 🚀
 
