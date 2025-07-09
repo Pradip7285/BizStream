@@ -9,11 +9,12 @@ module/Depot.xlsx
 module/distict&warehouse.xlsx
 # Ignore environment files
 .env
-
+*.zip
 # Ignore temporary files
 *.log
 *.tmp
-
+*.png
+*.html
 # Ignore IDE/editor files
 .vscode/
 .idea/
